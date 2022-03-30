@@ -1,2 +1,2 @@
 # odin-recipes
-This project will be displaying different recipes using html
+This project is a basic multi-page html site displaying various recipes. 
